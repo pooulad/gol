@@ -5,6 +5,12 @@ Try it for fun :)
 
 ### Run in C:
 ```bash
+    git clone https://github.com/pooulad/gol.git
+```
+```bash
+    cd ./gol/c
+```
+```bash
     cd ./c
 ```
 ```bash
@@ -14,7 +20,30 @@ Try it for fun :)
     ./a.out
 ```
 
-![Screenshot_20231127_180354](https://github.com/pooulad/golC/assets/86445458/309e69f4-240b-4ce2-8672-dd7ee1a89a12)
+![c_demo](https://github.com/pooulad/gol/blob/main/images/c_game.png)
+
+
+### Run in go:
+
+Make sure you installed all dependencies in https://ebitengine.org/
+
+After install all required tools run:
+
+```bash
+    git clone https://github.com/pooulad/gol.git
+```
+```bash
+    cd ./gol/go
+```
+```bash
+     make run
+```
+OR
+```bash
+     go run life.go
+```
+
+![go_demo](https://github.com/pooulad/gol/blob/main/images/go_game.png)
 
 
 
