@@ -1,7 +1,7 @@
 # gol
 🚨Create game of life with C and Go
 
-Try it for fun : 
+Try it for fun :)
 
 ### Run in C:
 ```bash
