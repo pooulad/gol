@@ -5,19 +5,19 @@ Try it for fun :)
 
 ### Run in C:
 ```bash
-    git clone https://github.com/pooulad/gol.git
+git clone https://github.com/pooulad/gol.git
 ```
 ```bash
-    cd ./gol/c
+cd ./gol/c
 ```
 ```bash
-    cd ./c
+cd ./c
 ```
 ```bash
-    gcc life.c
+gcc life.c
 ```
 ```bash
-    ./a.out
+./a.out
 ```
 
 ![c_demo](https://github.com/pooulad/gol/blob/main/images/c_game.png)
@@ -30,17 +30,17 @@ Make sure you installed all dependencies in https://ebitengine.org/
 After install all required tools run:
 
 ```bash
-    git clone https://github.com/pooulad/gol.git
+git clone https://github.com/pooulad/gol.git
 ```
 ```bash
-    cd ./gol/go
+cd ./gol/go
 ```
 ```bash
-     make run
+make run
 ```
 OR
 ```bash
-     go run life.go
+go run life.go
 ```
 
 ![go_demo](https://github.com/pooulad/gol/blob/main/images/go_game.png)
