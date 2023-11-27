@@ -5,7 +5,12 @@ Try it for fun :)
 
 ### Run in C:
 ```bash
+    cd ./c
+```
+```bash
     gcc life.c
+```
+```bash
     ./a.out
 ```
 
