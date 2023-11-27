@@ -1,5 +1,5 @@
-# golC
-🚨Create game of life with C
+# gol
+🚨Create game of life with C and Go
 
 Try it for fun : 
 
